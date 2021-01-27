@@ -1,2 +1,2 @@
 # NLP
-Reiterating what I have learned in the NLP cousera Specialization
+Reiterating what I have learned in the NLP cousera Specialization, testing the methods in other environments...
